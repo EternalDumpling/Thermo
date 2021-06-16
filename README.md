@@ -20,4 +20,4 @@
 * Matching Tag UID against scope
 * Wireless/Wired Connectivity via Shield
   * Utilizing Connectivity for data logging via Google Sheets, Trello, or other database service 
-* Utilization of sound/light for visual temperature confirmation.
+* Utilization of sound/light for visual temperature confirmation
